@@ -3,7 +3,7 @@
 
 // 여기에 코드를 작성하세요. (이 위는 수정하지 마세요)
 
-// 1. data-src 속성을 가진 모든 이미지를 선택하세요
+// 1. 모든 이미지 element를 선택하세요
 
 // 2. IntersectionObserver 옵션값
 const observerOptions = {
@@ -12,6 +12,6 @@ const observerOptions = {
   threshold: 0,
 };
 
-// 3. IntersectionObserver 콜백 함수를 구현하세요
+// 3. README를 참조하여 IntersectionObserver 콜백 함수를 구현하세요
 
 // 4. 모든 이미지에 대해 observe를 시작하세요
