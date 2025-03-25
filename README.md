@@ -8,9 +8,10 @@
 
 1. 이 repo를 clone 합니다.
 2. cmd + shift + p를 눌러서 disable completions을 칩니다. (코파일럿 자동완성 끄기)
-3. 로컬에서 npm i를 진행 한 후 npm run start로 브라우저에 띄우세요.
-4. 구현한 코드를 각자 github에 push한 뒤 공유하세요.
-5. cmd + shift + p를 눌러서 enable completions를 칩니다. (코파일럿 자동완성 키기)
+3. `git checkout -b lazyImage` 로 lazyImage branch를 생성하고 진행해주세요.
+4. 로컬에서 npm i를 진행 한 후 npm run start로 브라우저에 띄우세요.
+5. `git push origin lazyImage`로 구현한 코드를 각자 github에 push한 뒤 공유하세요.
+6. cmd + shift + p를 눌러서 enable completions를 칩니다. (코파일럿 자동완성 키기)
 
 ### 꼭 알아두어야 할 것
 
